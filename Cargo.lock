@@ -3624,7 +3624,7 @@ dependencies = [
 [[package]]
 name = "mozjs"
 version = "0.13.0"
-source = "git+https://github.com/servo/rust-mozjs#81c88926aa57f8571b3784216907e4e06363b345"
+source = "git+https://github.com/servo/rust-mozjs#c7dad6aef5bcb6a83d68d03a95554df6f342069b"
 dependencies = [
  "cc",
  "lazy_static",
